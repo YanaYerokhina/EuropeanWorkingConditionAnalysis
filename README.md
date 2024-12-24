@@ -78,7 +78,6 @@ The project implements:
 
 # Dependencies
 ```
-R
 library(data.table)
 library(ggplot2)
 library(tidyverse)
